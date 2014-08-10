@@ -1,0 +1,4 @@
+acme_rentacar:
+    resource: "@AcmeRentacarBundle/Resources/config/routing.php"
+    prefix:   /
+
